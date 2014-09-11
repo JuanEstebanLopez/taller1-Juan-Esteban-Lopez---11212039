@@ -1,0 +1,40 @@
+#navegacion{
+	font-size: 10;
+	float: right;
+}
+#enlace{
+	color: gray;
+	text-decoration: none;
+	margin: 10px;	
+
+}
+#formulario_registro{
+
+	font-size: 20px;
+	padding: 10px;
+	clear: right;
+	margin-top: 100;
+	border: 2px solid;
+	width: 230;
+	margin-right: auto;
+	margin-left: auto;
+}
+#formulario_tareas{
+	
+	clear: right;
+	font-size: 20px;
+	padding: 10px;
+	margin-top: 100;
+	border: 2px solid;
+	width: 300;
+	margin-right: auto;
+	margin-left: auto;
+}
+#tabla{
+
+	clear: right;
+	float: left;
+}
+.formulario_datos{
+	font-size: 20px;
+}
